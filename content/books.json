@@ -1,0 +1,364 @@
+[
+  {
+    "id": "high-school",
+    "goal": "high-school",
+    "sourceIds": [
+      "GaoZhongluan_2"
+    ],
+    "level": "高中",
+    "category": "全部词汇",
+    "title": "高考完整词汇",
+    "description": "收录教材、真题与拓展词汇，适合系统学习。全部指本来源词书收录范围。",
+    "sourceId": "GaoZhongluan_2",
+    "count": 3668,
+    "chapters": 184,
+    "orderLabel": "原词书顺序",
+    "url": "/content/high-school.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164673602_GaoZhongluan_2.zip",
+      "sourceId": "GaoZhongluan_2",
+      "sha256": "4d5b3056eb414dfc47c1bde42adcbeca166338cd0eb141ceaf54071da188e24e",
+      "version": "1521164673602_GaoZhongluan_2.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164673602_GaoZhongluan_2.zip",
+          "sourceId": "GaoZhongluan_2",
+          "sha256": "4d5b3056eb414dfc47c1bde42adcbeca166338cd0eb141ceaf54071da188e24e",
+          "version": "1521164673602_GaoZhongluan_2.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  },
+  {
+    "id": "high-school-core",
+    "goal": "high-school",
+    "sourceIds": [
+      "GaoZhong_3"
+    ],
+    "level": "高中",
+    "category": "核心词汇",
+    "title": "高中核心词汇",
+    "description": "新东方高中词汇，集中学习另一套核心词汇与释义。",
+    "sourceId": "GaoZhong_3",
+    "count": 2340,
+    "chapters": 117,
+    "orderLabel": "原词书顺序",
+    "url": "/content/high-school-core.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164679263_GaoZhong_3.zip",
+      "sourceId": "GaoZhong_3",
+      "sha256": "8f870058ff3e43b112aee76733f6defccb7e9cd7dc48fd426cacef6a26d483d6",
+      "version": "1521164679263_GaoZhong_3.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164679263_GaoZhong_3.zip",
+          "sourceId": "GaoZhong_3",
+          "sha256": "8f870058ff3e43b112aee76733f6defccb7e9cd7dc48fd426cacef6a26d483d6",
+          "version": "1521164679263_GaoZhong_3.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  },
+  {
+    "id": "high-school-textbook",
+    "goal": "high-school",
+    "sourceIds": [
+      "PEPGaoZhong_1",
+      "PEPGaoZhong_2",
+      "PEPGaoZhong_3",
+      "PEPGaoZhong_4",
+      "PEPGaoZhong_5"
+    ],
+    "level": "高中",
+    "category": "教材基础",
+    "title": "高中教材基础词",
+    "description": "人教版高中必修一至五合辑，按册学习，重复词目合并；来源为旧版教材。",
+    "sourceId": "PEPGaoZhong_1",
+    "count": 1659,
+    "chapters": 83,
+    "orderLabel": "按教材册次",
+    "url": "/content/high-school-textbook.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164674793_PEPGaoZhong_1.zip",
+      "sourceId": "PEPGaoZhong_1",
+      "sha256": "530db04b67f522b0a6b2ca076e0679b3df1ad048ff13c784410f7ce2978fce06",
+      "version": "1521164674793_PEPGaoZhong_1.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164674793_PEPGaoZhong_1.zip",
+          "sourceId": "PEPGaoZhong_1",
+          "sha256": "22b21a4d30bbff498769ddfe8e57d36a174b1659cbf07fe82eb052505a4d96e1",
+          "version": "1521164674793_PEPGaoZhong_1.zip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164678610_PEPGaoZhong_2.zip",
+          "sourceId": "PEPGaoZhong_2",
+          "sha256": "612518ccfbdd04c05c8d7e466d6542a599cd28042b431b93b7eeabfc93f6d035",
+          "version": "1521164678610_PEPGaoZhong_2.zip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164676690_PEPGaoZhong_3.zip",
+          "sourceId": "PEPGaoZhong_3",
+          "sha256": "3e14ceb886611049e80385d349f2e905984b7b6d9bc8629172fc0d15d076ca2f",
+          "version": "1521164676690_PEPGaoZhong_3.zip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164657462_PEPGaoZhong_4.zip",
+          "sourceId": "PEPGaoZhong_4",
+          "sha256": "52ddaabe27f41419560a2a671eb7de934af594a36f860682a1124685fd4f9d38",
+          "version": "1521164657462_PEPGaoZhong_4.zip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164657147_PEPGaoZhong_5.zip",
+          "sourceId": "PEPGaoZhong_5",
+          "sha256": "66e5cbe65b5b007c64cb14bf86419b998e1540cd37402933dccb9c71585a2d25",
+          "version": "1521164657147_PEPGaoZhong_5.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  },
+  {
+    "id": "cet4",
+    "goal": "cet4",
+    "sourceIds": [
+      "CET4luan_1"
+    ],
+    "level": "四级",
+    "category": "高频考点",
+    "title": "四级高频考点词",
+    "description": "来源词书从真题词汇中筛选的核心词，适合考前集中复习。",
+    "sourceId": "CET4luan_1",
+    "count": 1162,
+    "chapters": 59,
+    "orderLabel": "原词书顺序",
+    "url": "/content/cet4.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1523620217431_CET4luan_1.zip",
+      "sourceId": "CET4luan_1",
+      "sha256": "813942f51a25448ace9fa2f629a108b92b322eef36efa4cdbcb0facfb00b66a9",
+      "version": "1523620217431_CET4luan_1.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1523620217431_CET4luan_1.zip",
+          "sourceId": "CET4luan_1",
+          "sha256": "813942f51a25448ace9fa2f629a108b92b322eef36efa4cdbcb0facfb00b66a9",
+          "version": "1523620217431_CET4luan_1.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  },
+  {
+    "id": "cet4-all",
+    "goal": "cet4",
+    "sourceIds": [
+      "CET4_2"
+    ],
+    "level": "四级",
+    "category": "全部词汇",
+    "title": "四级完整词汇",
+    "description": "包含基础、考纲、真题和拓展词，适合从头系统学习。全部指本来源词书收录范围。",
+    "sourceId": "CET4_2",
+    "count": 3739,
+    "chapters": 187,
+    "orderLabel": "原词书顺序",
+    "url": "/content/cet4-all.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164635506_CET4_2.zip",
+      "sourceId": "CET4_2",
+      "sha256": "ca6661bcaac6330f64054283974b199b378950b755f57c7573e4a06541b07b82",
+      "version": "1521164635506_CET4_2.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164635506_CET4_2.zip",
+          "sourceId": "CET4_2",
+          "sha256": "ca6661bcaac6330f64054283974b199b378950b755f57c7573e4a06541b07b82",
+          "version": "1521164635506_CET4_2.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  },
+  {
+    "id": "cet4-expanded",
+    "goal": "cet4",
+    "sourceIds": [
+      "CET4_3"
+    ],
+    "level": "四级",
+    "category": "核心拓展",
+    "title": "四级核心拓展词",
+    "description": "新东方四级词汇，搭配另一套释义与例句，巩固并拓展词汇。",
+    "sourceId": "CET4_3",
+    "count": 2607,
+    "chapters": 131,
+    "orderLabel": "原词书顺序",
+    "url": "/content/cet4-expanded.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164643060_CET4_3.zip",
+      "sourceId": "CET4_3",
+      "sha256": "2732588a69be6f97e831f47baf08fb8f91f699df01607b7cfcf346c8ad2d5f3c",
+      "version": "1521164643060_CET4_3.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164643060_CET4_3.zip",
+          "sourceId": "CET4_3",
+          "sha256": "2732588a69be6f97e831f47baf08fb8f91f699df01607b7cfcf346c8ad2d5f3c",
+          "version": "1521164643060_CET4_3.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  },
+  {
+    "id": "cet6",
+    "goal": "cet6",
+    "sourceIds": [
+      "CET6luan_1"
+    ],
+    "level": "六级",
+    "category": "高频考点",
+    "title": "六级高频考点词",
+    "description": "来源词书筛选的六级真题核心词，适合考前集中复习。",
+    "sourceId": "CET6luan_1",
+    "count": 1228,
+    "chapters": 62,
+    "orderLabel": "原词书顺序",
+    "url": "/content/cet6.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164660466_CET6luan_1.zip",
+      "sourceId": "CET6luan_1",
+      "sha256": "b91c6b870b7954e0107252a6b0eada12f4d17832071d2094b38c5556ca290b98",
+      "version": "1521164660466_CET6luan_1.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164660466_CET6luan_1.zip",
+          "sourceId": "CET6luan_1",
+          "sha256": "b91c6b870b7954e0107252a6b0eada12f4d17832071d2094b38c5556ca290b98",
+          "version": "1521164660466_CET6luan_1.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  },
+  {
+    "id": "cet6-all",
+    "goal": "cet6",
+    "sourceIds": [
+      "CET6_2",
+      "CET6_3",
+      "CET4_2"
+    ],
+    "level": "六级",
+    "category": "全部词汇",
+    "title": "六级完整词汇",
+    "description": "合并六级英语、新东方六级和四级基础词库，按拼写去重。全部指这三套来源合并的收录范围。",
+    "sourceId": "CET6_2",
+    "count": 5964,
+    "chapters": 299,
+    "orderLabel": "六级词汇 → 四级基础",
+    "url": "/content/cet6-all.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1524052554766_CET6_2.zip",
+      "sourceId": "CET6_2",
+      "sha256": "2534978c2a7a23a7c0558acfcb0c1d6dc81c6795890112b045156177e405092c",
+      "version": "1524052554766_CET6_2.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1524052554766_CET6_2.zip",
+          "sourceId": "CET6_2",
+          "sha256": "fe12c5a331510e86da4a187a829d9d72e2785588e60ce45d830f349c30fc3866",
+          "version": "1524052554766_CET6_2.zip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164633851_CET6_3.zip",
+          "sourceId": "CET6_3",
+          "sha256": "053bbcfecc82ca3cea7d4bcafdb0fea56c019b8e61d544fab462cd2bf72d983f",
+          "version": "1521164633851_CET6_3.zip"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164635506_CET4_2.zip",
+          "sourceId": "CET4_2",
+          "sha256": "ca6661bcaac6330f64054283974b199b378950b755f57c7573e4a06541b07b82",
+          "version": "1521164635506_CET4_2.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  },
+  {
+    "id": "cet6-advanced",
+    "goal": "cet6",
+    "sourceIds": [
+      "CET6_2"
+    ],
+    "level": "六级",
+    "category": "进阶词汇",
+    "title": "六级进阶词汇",
+    "description": "聚焦四级以上的六级词汇，适合已掌握基础词的学习者。",
+    "sourceId": "CET6_2",
+    "count": 2078,
+    "chapters": 104,
+    "orderLabel": "原词书顺序",
+    "url": "/content/cet6-advanced.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1524052554766_CET6_2.zip",
+      "sourceId": "CET6_2",
+      "sha256": "fe12c5a331510e86da4a187a829d9d72e2785588e60ce45d830f349c30fc3866",
+      "version": "1524052554766_CET6_2.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1524052554766_CET6_2.zip",
+          "sourceId": "CET6_2",
+          "sha256": "fe12c5a331510e86da4a187a829d9d72e2785588e60ce45d830f349c30fc3866",
+          "version": "1524052554766_CET6_2.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  },
+  {
+    "id": "cet6-expanded",
+    "goal": "cet6",
+    "sourceIds": [
+      "CET6_3"
+    ],
+    "level": "六级",
+    "category": "核心拓展",
+    "title": "六级核心拓展词",
+    "description": "新东方六级词汇，补充不同编排的六级词汇与例句。",
+    "sourceId": "CET6_3",
+    "count": 2345,
+    "chapters": 118,
+    "orderLabel": "原词书顺序",
+    "url": "/content/cet6-expanded.json",
+    "provenance": {
+      "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164633851_CET6_3.zip",
+      "sourceId": "CET6_3",
+      "sha256": "053bbcfecc82ca3cea7d4bcafdb0fea56c019b8e61d544fab462cd2bf72d983f",
+      "version": "1521164633851_CET6_3.zip",
+      "repository": "https://github.com/kajweb/dict",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/kajweb/dict/master/book/1521164633851_CET6_3.zip",
+          "sourceId": "CET6_3",
+          "sha256": "053bbcfecc82ca3cea7d4bcafdb0fea56c019b8e61d544fab462cd2bf72d983f",
+          "version": "1521164633851_CET6_3.zip"
+        }
+      ],
+      "rights": "上游未提供明确的再分发许可；保留私有访问，公开分享前需核对资料授权。"
+    }
+  }
+]
